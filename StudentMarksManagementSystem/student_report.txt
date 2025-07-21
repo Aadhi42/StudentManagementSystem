@@ -1,0 +1,21 @@
+Student 1:
+Name    : Aadhi
+Total   : 1120
+Average : 224.0
+Grade   : A+
+--------------------------------------
+
+Student 2:
+Name    : mohan
+Total   : 330
+Average : 66.0
+Grade   : B
+--------------------------------------
+
+Student 3:
+Name    : harish
+Total   : 973
+Average : 194.6
+Grade   : A+
+--------------------------------------
+
